@@ -13,8 +13,8 @@ Just a template to get started.
 1. node.js.
 
 # Deploy to heroku
-$ git init
-$ heroku create my-project
-$ heroku login 
-$ git push heroku master
+- $ git init
+- $ heroku create my-project
+- $ heroku login 
+- $ git push heroku master
 
